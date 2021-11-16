@@ -1,0 +1,6 @@
+﻿  7.4.cpp
+C:\Users\Acer\source\repos\7.4\7.4\7.4.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\7.4\7.4\7.4.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\7.4\7.4\7.4.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\source\repos\7.4\7.4\7.4.cpp(80,21): warning C4018: '<': signed/unsigned mismatch
+  7.4.vcxproj -> C:\Users\Acer\source\repos\7.4\Debug\7.4.exe
